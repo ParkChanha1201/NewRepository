@@ -1,0 +1,7 @@
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\bin\Debug\First Project.exe.config
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\bin\Debug\First Project.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\bin\Debug\First Project.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\obj\Debug\First Project.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\obj\Debug\First Project.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CSharp Example\First Project\obj\Debug\First Project.pdb
